@@ -82,12 +82,13 @@ ul li::before
     background-size: cover;
     background-position: center;
     top:12px;
-    left:8px;
+    left:08px;
 }
 
 ul li.checked{
     color:#555;
     text-decoration: line-through;
+
 
 }
 ul li.checked::before{
